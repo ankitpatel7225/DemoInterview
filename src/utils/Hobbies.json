@@ -1,0 +1,30 @@
+[
+  {
+    "value":1,
+    "label":"Reading"
+  },
+  {
+    "value":2,
+    "label":"Anime"
+  },
+  {
+    "value":3,
+    "label":"Art"
+  },
+  {
+    "value":4,
+    "label":"Coding"
+  },
+  {
+    "value":5,
+    "label":"Beatboxing"
+  },
+  {
+    "value":6,
+    "label":"blogging"
+  },
+  {
+    "value":7,
+    "label":"Bowling"
+  }
+]

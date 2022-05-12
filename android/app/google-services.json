@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645552182604",
+    "project_id": "demointerview-20a5d",
+    "storage_bucket": "demointerview-20a5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645552182604:android:9bbe66272694da895fabe9",
+        "android_client_info": {
+          "package_name": "com.demointerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645552182604-6ha59t9k50esf5q2n1fvtugrs7fgvc0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBdBDTRhZ15pFdCm0qMmbUELUedH4zA6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645552182604-6ha59t9k50esf5q2n1fvtugrs7fgvc0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

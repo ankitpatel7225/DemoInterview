@@ -1,0 +1,30 @@
+[
+  {
+    "id":1,
+    "name":"Gujarat"
+  },
+  {
+    "id":2,
+    "name":"Uttar Pradesh"
+  },
+  {
+    "id":3,
+    "name":"Panjab"
+  },
+  {
+    "id":4,
+    "name":"Maharashtra"
+  },
+  {
+    "id":5,
+    "name":"Goa"
+  },
+  {
+    "id":6,
+    "name":"Assam"
+  },
+  {
+    "id":7,
+    "name":"Haryana"
+  }
+]
